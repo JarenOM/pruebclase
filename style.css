@@ -1,0 +1,23 @@
+div{
+    background-color: blue;
+    border: 2px dotted red;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+
+#texto-parrafo{
+    color: white;
+    font-style: italic;
+}
+
+a{
+    color: yellow;
+    text-decoration: none;
+}
+
+#texto-enlace:hover{
+    color: black;
+    text-decoration: underline;
+}
